@@ -1,0 +1,125 @@
+commit d95697cc714d38c9a6533ff9aa92d9df7d081709
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Wed Nov 23 14:43:22 2016 +0100
+
+    TEM-9 testa
+
+commit 893c29946f36d5f1d08d6b63637edcce3a5cc9a0
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Wed Nov 23 14:00:11 2016 +0100
+
+    TEM-8 asdfg
+
+commit de883674502a83b27ec007734273c3dfc2faa63a
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Wed Nov 23 13:59:51 2016 +0100
+
+    TEM-7 asdf
+
+commit 1b83b337be821c1b55560cd1464343a64f2e1458
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Wed Nov 23 12:40:30 2016 +0100
+
+    TEM-4 tem43
+
+commit 4514ffc1c5ab803314c825358d9e8c0bb0234b3d
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Wed Nov 23 12:37:38 2016 +0100
+
+    TEM-4 tem42
+
+commit b8d7140954e5b8118bf239a4cdd4e86f054df644
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Wed Nov 23 12:37:17 2016 +0100
+
+    TEM-4 tem41
+
+commit 889bd661f25354d2724c9fad60a386455247dd54
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Wed Nov 23 12:36:47 2016 +0100
+
+    TEM-3 tem3
+
+commit fa695d8b89dba65c55beaf4c85af249f02b97aff
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Wed Nov 23 12:36:25 2016 +0100
+
+    TEM-3 costam
+
+commit e54540f6240487b39790ecb573baa2ee1bb9e360
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Tue Nov 22 10:40:37 2016 +0100
+
+    TEM-1 dupala
+
+commit 34a451eee0c34a11c25f3901da1e9a4037e3c987
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Tue Nov 22 10:29:51 2016 +0100
+
+    TEM-1 costam
+
+commit bc3294742916680c8edd7a7ce2ccc4c18dd75044
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Tue Nov 22 10:29:00 2016 +0100
+
+    TEM-1 third commit
+
+commit 49990f37d8b4b31ee0fd117d807a8b2165638f24
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Tue Nov 22 10:27:37 2016 +0100
+
+    TEM-1 dodano znowu, poprawiać po kolei linijki w pluginie
+
+commit 1646089124703122f6196fd512bd880fcc983ee4
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Tue Nov 22 10:25:15 2016 +0100
+
+    TEM-1 dziala poki co, beda zmieniane linijki kodu w pluginie
+
+commit 0bcf2394cdf7bceaece196e5dd1f79e6ed0f9e58
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Tue Nov 22 10:21:23 2016 +0100
+
+    PLUG-1 nowyCommit_Dla innego projektu i issue
+
+commit 47c977a27685b1cecf409d2c707f67303ef4e708
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Tue Nov 22 10:17:06 2016 +0100
+
+    TEM-1 commit a nazwa issue się zgadza...
+
+commit 2cbc406d022f9be0555d0c51ee33bf053e061b65
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Tue Nov 22 10:07:20 2016 +0100
+
+    TEM-1 nowa_Jira
+
+commit 84a1a719deda483bcabffd88049dbde9d6ba7d75
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Fri Nov 4 13:46:27 2016 +0100
+
+    TEM-2 commit3
+
+commit 36b3dbc3d83fd251ee147c1fad87cc3f17f9980a
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Fri Nov 4 13:43:47 2016 +0100
+
+    TEM-2 commit2
+
+commit 2de7c01a697ee16c4ebe142dc4e17cebcd5bae3c
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Fri Nov 4 13:43:15 2016 +0100
+
+    TEM-2 commit1
+
+commit 874c0170bda80926eb5ca17019b4e272a7dabc43
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Fri Nov 4 12:41:21 2016 +0100
+
+    TEM-1 second commit
+
+commit 2e1266d3d901450949a92ab906bc5e1fea39d2af
+Author: maciej.niechaj <maciej.niechaj@comarch.pl>
+Date:   Fri Nov 4 12:33:26 2016 +0100
+
+    TEM-1 first commit
